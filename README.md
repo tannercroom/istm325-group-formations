@@ -46,5 +46,5 @@ The program then asks the user to specify the number of group sets to be created
 
 Once the program has completed creating groups and sets, an output file will be automatically generated with the filename "sets-<i>[yyyy-MM-dd_HHmmss]</i>.csv" in the same location all program files reside.
 
-<i>Note: if the program was unable to create the specified number of sets, an output file will still be generated with what the program was able to come up with before reaching 1,500,000 failed attempts. </i>
+Note: if the program was unable to create the specified number of sets, an output file will still be generated with what the program was able to come up with before reaching 1,500,000 failed attempts.
 </div>
