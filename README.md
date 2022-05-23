@@ -26,7 +26,7 @@ The detailed instructions for how the program should function are as follows:
 <div id=instructions>
 <h3>How to Run This Program</h3>
   
-This Java program can be compiled and run in any Java Runtime Environment (JRE) the user chooses. After downloading the program, extract all files in "GroupFormations.zip" to a single location, and run <i>groupFormations.java</i> in your preferred environment. This program has no GUI, and is fully executed through the console.
+This Java program can be compiled and run in any Java Runtime Environment (JRE) the user chooses. After downloading the program, extract all files in "istm325-group-formations-main.zip" to a single location, and run <i>groupFormations.java</i> in your preferred environment. This program has no GUI, and is fully executed through the console.
 
 <b>I. Define the student population in which to create groups.</b>
 
