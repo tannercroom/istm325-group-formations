@@ -1,7 +1,7 @@
 # ISTM 325 - Group Formations
 
 <div id=introduction>
-The first part of my ISTM 325 Final Exam required me to create a program that can properly create groups and group sets of "students" (unique names), with the following requirements:
+One of the assignments in the ISTM 325 course I took in Spring 2022 required me to create a program that can properly create groups and group sets of "students" (unique names), with the following requirements:
 <br><br>
 <ul>
   <li>No student is repeated in the same group.</li>
